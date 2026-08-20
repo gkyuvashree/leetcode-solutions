@@ -1,0 +1,26 @@
+from collections import deque
+
+class Solution:
+    def rightSideView(self, root):
+        if root is None:
+            return []
+
+        q = deque([root])
+        result = []
+
+        while q:
+            n = len(q)
+
+            for i in range(n):
+                curr = q.popleft()
+
+                if i == n - 1:
+                    result.append(curr.val)
+
+                if curr.left:
+                    q.append(curr.left)
+
+                if curr.right:
+                    q.append(curr.right)
+
+        return result
