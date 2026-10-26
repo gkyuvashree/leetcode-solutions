@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1527-patients-with-a-condition) |
