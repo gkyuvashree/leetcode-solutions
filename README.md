@@ -28,8 +28,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0500-keyboard-row](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0500-keyboard-row) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0392-is-subsequence) |
+## Array
+|  |
+| ------- |
+| [0500-keyboard-row](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0500-keyboard-row) |
+## Hash Table
+|  |
+| ------- |
+| [0500-keyboard-row](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0500-keyboard-row) |
 <!---LeetCode Topics End-->
