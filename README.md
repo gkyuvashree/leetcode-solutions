@@ -39,11 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0500-keyboard-row](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Hash Table
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0500-keyboard-row](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0594-longest-harmonious-subsequence](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,8 +55,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0506-relative-ranks) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+## Counting
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
