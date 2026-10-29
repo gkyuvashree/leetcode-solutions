@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -68,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
+## Math
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
