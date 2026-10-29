@@ -35,10 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0322-coin-change) |
 | [0500-keyboard-row](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -137,5 +139,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0733-flood-fill) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
