@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0661-image-smoother](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0661-image-smoother) |
+| [0682-baseball-game](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0976-largest-perimeter-triangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -113,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0661-image-smoother](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0661-image-smoother) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
