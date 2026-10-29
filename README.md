@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0888-fair-candy-swap) |
+| [0976-largest-perimeter-triangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0888-fair-candy-swap) |
+| [0976-largest-perimeter-triangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -79,8 +81,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Binary Search
 |  |
 | ------- |
 | [0888-fair-candy-swap](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0888-fair-candy-swap) |
+## Greedy
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
