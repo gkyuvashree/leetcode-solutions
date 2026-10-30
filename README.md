@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0821-shortest-distance-to-a-character](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0500-keyboard-row) |
+| [0821-shortest-distance-to-a-character](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0821-shortest-distance-to-a-character](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0888-fair-candy-swap](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0976-largest-perimeter-triangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1051-height-checker) |
