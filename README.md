@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0888-fair-candy-swap) |
 | [0976-largest-perimeter-triangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1051-height-checker) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0415-add-strings](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0883-projection-area-of-3d-shapes](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0976-largest-perimeter-triangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Binary Search
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 ## Stack
 |  |
 | ------- |
@@ -160,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0322-coin-change) |
+## Geometry
+|  |
+| ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
