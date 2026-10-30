@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1200-minimum-absolute-difference](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1122-relative-sort-array) |
+| [1200-minimum-absolute-difference](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
