@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0821-shortest-distance-to-a-character](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
+| [0944-delete-columns-to-make-sorted](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0941-valid-mountain-array) |
+| [0944-delete-columns-to-make-sorted](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0976-largest-perimeter-triangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1051-height-checker) |
 ## Hash Table
@@ -197,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
