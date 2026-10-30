@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1089-duplicate-zeros](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0888-fair-candy-swap](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0888-fair-candy-swap) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
