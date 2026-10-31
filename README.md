@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [1332-remove-palindromic-subsequences](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1002-find-common-characters](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1002-find-common-characters) |
+| [1332-remove-palindromic-subsequences](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 ## Dynamic Programming
 |  |
 | ------- |
