@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0925-long-pressed-name) |
+| [0942-di-string-match](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0925-long-pressed-name) |
+| [0942-di-string-match](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1002-find-common-characters](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1002-find-common-characters) |
 ## Dynamic Programming
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0941-valid-mountain-array) |
+| [0942-di-string-match](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0942-di-string-match](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Quicksort
 |  |
