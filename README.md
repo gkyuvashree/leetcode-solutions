@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0051-n-queens) |
 | [0085-maximal-rectangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0322-coin-change](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0322-coin-change) |
 | [0500-keyboard-row](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0500-keyboard-row) |
@@ -299,4 +300,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
