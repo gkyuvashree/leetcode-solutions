@@ -68,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0322-coin-change](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Array
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0322-coin-change](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0322-coin-change) |
 | [0500-keyboard-row](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0506-relative-ranks) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0661-image-smoother](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0832-flipping-an-image) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0682-baseball-game](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Simulation
@@ -291,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/gkyuvashree/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
