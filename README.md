@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0322-coin-change) |
 | [0336-palindrome-pairs](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0336-palindrome-pairs) |
+| [0391-perfect-rectangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0500-keyboard-row](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0336-palindrome-pairs) |
 | [0383-ransom-note](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0391-perfect-rectangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0500-keyboard-row](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0500-keyboard-row) |
 | [0594-longest-harmonious-subsequence](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0391-perfect-rectangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0415-add-strings](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0883-projection-area-of-3d-shapes](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0391-perfect-rectangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0883-projection-area-of-3d-shapes](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -355,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0336-palindrome-pairs](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0336-palindrome-pairs) |
+## Sweep Line
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
