@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1184-distance-between-bus-stops](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1184-distance-between-bus-stops) |
 | [1200-minimum-absolute-difference](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1331-rank-transform-of-an-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1175-prime-arrangements) |
 | [1185-day-of-the-week](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1185-day-of-the-week) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/gkyuvashree/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Binary Search
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0942-di-string-match](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Quicksort
 |  |
 | ------- |
