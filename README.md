@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0976-largest-perimeter-triangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [0989-add-to-array-form-of-integer](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1002-find-common-characters](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1037-valid-boomerang](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1046-last-stone-weight) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
+| [0989-add-to-array-form-of-integer](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
