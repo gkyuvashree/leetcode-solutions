@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0391-perfect-rectangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0415-add-strings](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0883-projection-area-of-3d-shapes](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
