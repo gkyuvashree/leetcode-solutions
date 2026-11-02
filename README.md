@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1037-valid-boomerang) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1103-distribute-candies-to-people](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1103-distribute-candies-to-people) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/gkyuvashree/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Binary Search
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0867-transpose-matrix) |
+| [1103-distribute-candies-to-people](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1103-distribute-candies-to-people) |
 | [2899-last-visited-integers](https://github.com/gkyuvashree/leetcode-solutions/tree/master/2899-last-visited-integers) |
 ## Depth-First Search
 |  |
