@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
+| [0292-nim-game](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0292-nim-game) |
 | [0391-perfect-rectangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0391-perfect-rectangle) |
 | [0415-add-strings](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -390,4 +391,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
