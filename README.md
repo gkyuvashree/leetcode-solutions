@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1103-distribute-candies-to-people) |
 | [1154-day-of-the-year](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1175-prime-arrangements) |
+| [1185-day-of-the-week](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1185-day-of-the-week) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/gkyuvashree/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Binary Search
