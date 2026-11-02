@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1002-find-common-characters](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1002-find-common-characters) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1332-remove-palindromic-subsequences](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1025-divisor-game) |
 | [1037-valid-boomerang](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1037-valid-boomerang) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/gkyuvashree/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Binary Search
@@ -326,11 +328,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0149-max-points-on-a-line) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
