@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-day-of-the-week](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1185-day-of-the-week) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/gkyuvashree/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Binary Search
 |  |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1103-distribute-candies-to-people](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1103-distribute-candies-to-people) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [2899-last-visited-integers](https://github.com/gkyuvashree/leetcode-solutions/tree/master/2899-last-visited-integers) |
 ## Depth-First Search
 |  |
