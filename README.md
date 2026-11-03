@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [1332-remove-palindromic-subsequences](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1408-string-matching-in-an-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
+| [1436-destination-city](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1436-destination-city) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Dynamic Programming
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1408-string-matching-in-an-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [1436-destination-city](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1436-destination-city) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/gkyuvashree/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1436-destination-city](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1436-destination-city) |
 | [2367-number-of-arithmetic-triplets](https://github.com/gkyuvashree/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 ## Bit Manipulation
 |  |
