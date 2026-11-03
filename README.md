@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0892-surface-area-of-3d-shapes) |
+| [1260-shift-2d-grid](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 ## Stack
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1103-distribute-candies-to-people](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1103-distribute-candies-to-people) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1260-shift-2d-grid](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [2899-last-visited-integers](https://github.com/gkyuvashree/leetcode-solutions/tree/master/2899-last-visited-integers) |
 ## Depth-First Search
 |  |
