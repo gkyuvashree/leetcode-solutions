@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1002-find-common-characters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1154-day-of-the-year) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1332-remove-palindromic-subsequences](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1408-string-matching-in-an-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 | [1436-destination-city](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1436-destination-city) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Math
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0942-di-string-match](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0942-di-string-match) |
 | [0976-largest-perimeter-triangle](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 ## Quicksort
 |  |
