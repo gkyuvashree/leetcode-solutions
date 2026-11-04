@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1624-largest-substring-between-two-equal-characters](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1844-replace-all-digits-with-characters](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Dynamic Programming
 |  |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1266-minimum-time-visiting-all-points](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1512-number-of-good-pairs](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1903-largest-odd-number-in-string](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/gkyuvashree/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## Binary Search
 |  |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
+| [1903-largest-odd-number-in-string](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Quicksort
 |  |
 | ------- |
