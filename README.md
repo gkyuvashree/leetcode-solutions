@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-thousand-separator](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1556-thousand-separator) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1844-replace-all-digits-with-characters](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Dynamic Programming
 |  |
