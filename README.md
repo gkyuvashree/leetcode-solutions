@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1154-day-of-the-year) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1332-remove-palindromic-subsequences](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
+| [1370-increasing-decreasing-string](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1408-string-matching-in-an-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
 | [1436-destination-city](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1436-destination-city) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1370-increasing-decreasing-string](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1370-increasing-decreasing-string](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Math
