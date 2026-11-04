@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1408-string-matching-in-an-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1408-string-matching-in-an-array) |
+| [1417-reformat-the-string](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1417-reformat-the-string) |
 | [1436-destination-city](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1436-destination-city) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
