@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1507-reformat-date](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1507-reformat-date) |
 | [1556-thousand-separator](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1556-thousand-separator) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Dynamic Programming
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1436-destination-city](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/gkyuvashree/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2367-number-of-arithmetic-triplets](https://github.com/gkyuvashree/leetcode-solutions/tree/master/2367-number-of-arithmetic-triplets) |
 ## Bit Manipulation
 |  |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/gkyuvashree/leetcode-solutions/tree/master/0832-flipping-an-image) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-increasing-decreasing-string](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1370-increasing-decreasing-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/gkyuvashree/leetcode-solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Math
 |  |
 | ------- |
